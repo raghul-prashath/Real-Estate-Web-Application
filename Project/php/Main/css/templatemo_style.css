@@ -1,0 +1,133 @@
+/*
+
+Power Template
+
+https://templatemo.com/tm-508-power
+
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Source Sans Pro', sans-serif;
+    outline: none!important;
+    
+}
+
+a {
+  text-decoration: none!important;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+ul {
+  list-style: none;
+  margin: 0px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: 0.25px;
+  font-weight: 300;
+}
+
+.intro {
+  
+  text-align: center;
+  padding: 75px 0px;
+  background-image: url(../img/real.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.intro h4 {
+  margin-top: 0px;
+  font-size: 44px;
+  font-weight: 720;
+  color: black;
+}
+
+.intro h6 {
+  margin-top: 15px;
+  font-size: 17px;
+  font-weight: bolder;
+  color: black;
+  letter-spacing: 1px;
+  
+}
+
+.intro .border-button {
+  margin-top: 45px;
+}
+
+.logout{
+  width:200px;
+  height:50px;
+  background-color:darkorange; 
+  border:none; 
+  color:white;
+  border-radius:125px;
+  margin-left:1100px; 
+  margin-top: -100px;
+}
+
+.logout:hover{
+  background-color:orange;
+}
+
+
+
+#about {
+  padding: 0px;
+  background-image: url(../img/services-bg.jpg);
+  background-repeat: no-repeat;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+#about .service-item {
+  text-align: center;
+  margin: 0px -15px;
+  margin-top: 0px;
+  padding: 100px 45px;
+}
+
+#about .service-item h4 a{
+  margin-top: 40px;
+  margin-bottom: 20px;
+  font-size: 22px;
+  font-weight: 700;
+  color: white;
+}
+
+#about .service-item p {
+  margin-bottom: 0px;
+  color: #fff;
+}
+
+#about .first-service {
+  background-color: rgba(242, 116, 95, 0.75);
+}
+
+#about .second-service {
+  background-color: rgba(54, 62, 80, 0.75);
+}
+
+#about .third-service {
+  background-color: rgba(70, 186, 226, 0.75);
+}
+
+#about .service-item .icon {
+  width: 70px;
+  height: 70px;
+  display: inline-block;
+  text-align: center;
+  line-height: 74px;
+  background-color: transparent;
+}
+
